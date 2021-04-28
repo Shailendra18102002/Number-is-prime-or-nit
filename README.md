@@ -1,1 +1,0 @@
-# Number-is-prime-or-nit
